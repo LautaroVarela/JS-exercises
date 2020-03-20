@@ -1,0 +1,51 @@
+<!--CODING CHALLENGE 4-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+        /*task 1:
+            create an obj named car, assign properties/attributes to it.
+            in the js cose, try to change one of the attribute of the obj
+        */
+        car = {
+            color: 'Red',
+            price: 5600,
+            brand: 'BMW' 
+        };
+
+        car.brand = "Toyota";
+        document.write(car.brand);
+
+        /*task 2:
+            create an obj named car, assign properties/attributes to it.
+            in the js cose, try to change one of the attribute of the obj
+        */
+       function display() {
+           document.write("Hi there");
+       }
+
+       /*task 3:
+            create a car obj with a propery called state, create a button
+            and use js code to make the button change the state of the car
+        */
+
+        function start(){
+            Car2.state = "Started";
+            document.write(Car2.state);
+        }
+        Car2 = {
+            color: 'Red',
+            price: 5600,
+            brand: 'BMW',
+            state: 'Stopped'
+        };
+        </script>
+        <button onClick="display()">Click here</button>
+        <button onClick="start()">Click here to start</button>
+    </head>
+    <body>
+
+    </body>
+</html>
+
