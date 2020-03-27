@@ -8,4 +8,12 @@
 ###### codingChallenge4: objects, simple buttons events & attributes/properties in functions.
 ###### codingChallenge5: string methods.
 ###### codingChallenge6: array methods.
-###### codingChallenge7:
+###### codingChallenge8: (contains 9 too) if & else
+###### codingChallenge10: for & while
+###### codingChallenge11: switch()
+###### codingChallenge12: regular expression, try/catch(if)
+###### codingChallenge13: regular expression, function() & .replace
+###### codingChallenge14:
+###### codingChallenge15:
+###### codingChallenge16:
+###### codingChallenge17:
